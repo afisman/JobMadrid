@@ -1,4 +1,3 @@
-import { SongCard } from "../components";
 import { genres } from '../assets/constants';
 import { useState, useEffect } from "react";
 import { songData } from '../utils/songData.JSON'
